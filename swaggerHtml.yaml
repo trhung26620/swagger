@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <a href='https://trhung26620.github.io/swagger/index.html'><img src=1 onerror=alert(1)></a>
+    <a href='https://trhung26620.github.io/swagger/index.html'><img src='https://trhung26620.github.io/swagger/images.jpg'></a>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <a href='https://trhung26620.github.io/swagger/index.html'><img src=1 onerror=alert(1)></a>
+            <a href='https://trhung26620.github.io/swagger/index.html'><img src='https://trhung26620.github.io/swagger/images.jpg'></a>
 
           format: int64
           in: path
